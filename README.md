@@ -1,2 +1,2 @@
-# burger-king-clone-starter
+# 🍔 Burger king clone starter
 Download this 🔽 and start building! 
